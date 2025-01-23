@@ -1,2 +1,5 @@
-def half(num):
-    return num / 2
+def greet():
+    print('Hello!')
+
+def my_lib():
+    rint('more_itertools')

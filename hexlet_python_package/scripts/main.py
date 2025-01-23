@@ -1,10 +1,8 @@
-import sys
-
-from hexlet_python_package.half import half
+from hexlet_python_package.half import greet
 
 
 def main():
-    print(half(float(sys.argv[-1])))
+    greet()
 
 
 if __name__ == "__main__":
